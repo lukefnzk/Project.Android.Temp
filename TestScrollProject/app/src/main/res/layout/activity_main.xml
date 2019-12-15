@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:background="#7C4DFF"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:background="#FF5252"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:background="#FFD740"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:background="#FF6E40"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="스크롤 테스트 입니다"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:background="#64FFDA"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:background="#448AFF"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="스크롤 테스트 입니다"
+        android:gravity="center_horizontal"
+        android:textSize="30sp" />
+
+</LinearLayout>
